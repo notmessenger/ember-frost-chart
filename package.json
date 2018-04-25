@@ -37,7 +37,7 @@
     "ember-cli-mocha": "0.14.4",
     "ember-cli-shims": "^1.2.0",
     "ember-cli-uglify": "^2.0.0",
-    "ember-code-snippet": "1.7.0",
+    "ember-code-snippet": "^2.1.0",
     "ember-disable-prototype-extensions": "^1.1.2",
     "ember-export-application-global": "^2.0.0",
     "ember-frost-test": "^4.0.1",
